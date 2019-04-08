@@ -1,0 +1,5 @@
+c:\users\dpridoy\documents\visual studio 2013\Projects\EmployeeManagement\DAL\bin\Debug\DAL.dll
+c:\users\dpridoy\documents\visual studio 2013\Projects\EmployeeManagement\DAL\bin\Debug\DAL.pdb
+c:\users\dpridoy\documents\visual studio 2013\Projects\EmployeeManagement\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\dpridoy\documents\visual studio 2013\Projects\EmployeeManagement\DAL\obj\Debug\DAL.dll
+c:\users\dpridoy\documents\visual studio 2013\Projects\EmployeeManagement\DAL\obj\Debug\DAL.pdb

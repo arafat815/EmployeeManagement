@@ -1,0 +1,5 @@
+c:\users\dpridoy\documents\visual studio 2013\Projects\EmployeeManagement\BEL\bin\Debug\BEL.dll
+c:\users\dpridoy\documents\visual studio 2013\Projects\EmployeeManagement\BEL\bin\Debug\BEL.pdb
+c:\users\dpridoy\documents\visual studio 2013\Projects\EmployeeManagement\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
+c:\users\dpridoy\documents\visual studio 2013\Projects\EmployeeManagement\BEL\obj\Debug\BEL.dll
+c:\users\dpridoy\documents\visual studio 2013\Projects\EmployeeManagement\BEL\obj\Debug\BEL.pdb
